@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<config> 
+      <node id="LMS" belongto="" text="LMS" name="LMS" url="" iconcls="ctrl_book_open_png"/>  
+      <node id="LMS_user" belongto="LMS" text="user" name="user" url="" iconcls="app_monitor_png"/>  
+      <node id="LMS_administrator" belongto="LMS" text="管理员" name="administrator" url="" iconcls="app_monitor_png"/>
+      <node id="LMS_user_update" belongto="LMS_user" text="更新用户信息" name="update" url="" iconcls="app_application_side_boxes_png"/>
+      <node id="LMS_user_login" belongto="LMS_user" text="登录" name="login" url="" iconcls="app_application_side_boxes_png"/>
+      <node id="LMS_user_sign_up" belongto="LMS_user" text="注册" name="sign_up" url="" iconcls="app_application_side_boxes_png"/>
+      <node id="LMS_administrator_login" belongto="LMS_administrator" text="登录" name="login" url="" iconcls="app_application_side_boxes_png"/>
+</config>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<hearkenProject>
+      <projectKey>$LMS</projectKey>
+      <projectVersion>4</projectVersion>
+      <attributes>
+            <attribute name="databaseBookmark" value="db_lms"/>
+            <attribute name="cacheSynchronized" value="false"/>
+      </attributes>
+</hearkenProject>
